@@ -1,4 +1,4 @@
 first-test-repo
 ===============
 
-first repo for testing porposes
+first repo for testing purposes
